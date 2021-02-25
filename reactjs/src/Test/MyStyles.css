@@ -1,0 +1,36 @@
+.button_primary {
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    font-size: medium;
+    text-transform: uppercase;
+    outline: none;
+    border: 2px solid hotpink;
+    background: hotpink;
+    color: white;
+  }
+.button_primary:hover{
+    background: rebeccapurple;
+    border: 2px solid rebeccapurple;
+  }
+.button_normal {
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin: 5px;
+    font-size: medium;
+    text-transform: uppercase;
+    outline: none;
+    border: 2px solid black;
+    background: white;
+    color: black;
+  }
+.button_normal:hover{
+    background: black;
+    color: white;
+  }
